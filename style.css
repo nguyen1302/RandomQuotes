@@ -1,0 +1,46 @@
+body {
+    background-color: #b8d8e0 !important;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.quotes {
+    border: 5px solid #ff7235;
+    width: 50%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 10vh;
+    background-color: #fcf5ef;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.quote {
+    
+}
+
+.author {
+    font-style: italic;
+    margin-left: auto;
+    margin-right: 5%;
+}
+
+.button {
+    background-color: #6db5ca;
+    border: none;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    color: white;
+}
